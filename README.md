@@ -1,6 +1,6 @@
 # Привет друг!  
 ## _Представляю тебе  мой первый проект._
-https://reactru.github.io/My-russian-travel/._
+https://reactru.github.io/My-russian-travel/
 
 Он основан на:
 
