@@ -4,7 +4,6 @@
 @import url(./__image/header__image.css);
 
 .header {
-  max-width: 1280px;
   display: flex;
   align-items: center;
   justify-content: space-between;
