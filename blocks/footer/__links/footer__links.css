@@ -7,7 +7,7 @@
   list-style-type: none;
 }
 
-@media screen and (min-width: 321px) {
+@media screen and (min-width: 740px) {
   .footer__links {
     padding: 0;
     flex-direction: row;
