@@ -23,7 +23,7 @@
 @import url(../blocks/intro/__list/intro__list.css);
 /* GALLERY */
 @import url(../blocks/gallery/gallery.css);
-@import url(../blocks/gallery/__image/gallery__image.css);
+@import url(../blocks/gallery/__gallery-image/gallery__gallery-image.css);
 /* PLACE */
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);
