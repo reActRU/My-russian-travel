@@ -1,0 +1,26 @@
+@import url(./__title/cover__title.css);
+@import url(./__subtitle/_cover__subtitle.css);
+
+.cover {
+  min-height: 62.50vw;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  background-image: url(../../img/cover-trains.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.cover:hover {
+  min-height: 62.50vw;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../../img/cover-trains.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

@@ -1,0 +1,12 @@
+/*NORMALIZE*/
+@import url(../vendor/normalize.css);
+/* inter-regular - cyrillic_latin */
+@import url(../pages/fonts.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/footer/footer.css)

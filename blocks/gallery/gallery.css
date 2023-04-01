@@ -1,0 +1,21 @@
+@import url(./__image/gallery__image.css);
+
+.gallery {
+  padding: 0 16px 64px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 14px;
+}
+
+@media screen and (min-width: 768px) {
+.gallery {
+  padding: 0 24px 64px;
+}
+}
+
+@media screen and (min-width: 1024px) {
+  .gallery {
+    padding: 0 48px 64px;
+  }
+  }
+  
