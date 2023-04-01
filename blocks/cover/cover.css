@@ -1,6 +1,3 @@
-@import url(./__title/cover__title.css);
-@import url(./__subtitle/_cover__subtitle.css);
-
 .cover {
   min-height: 62.50vw;
   display: flex;

@@ -1,5 +1,3 @@
-@import url(./__image/gallery__image.css);
-
 .gallery {
   padding: 0 16px 64px;
   display: grid;
