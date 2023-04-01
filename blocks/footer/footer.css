@@ -1,5 +1,5 @@
 .footer {
-  padding: 0 16px 24px ;
+  padding: 0 16px 24px;
 }
 
 @media screen and (min-width: 321px) {
@@ -7,7 +7,7 @@
     display: flex;
     justify-content: space-between;
     align-items: end;
-    padding: 11.5vw 16px 24px 
+    padding: 11.5vw 16px 24px;
   }
 }
 
@@ -16,7 +16,7 @@
     display: flex;
     justify-content: space-between;
     align-items: end;
-    padding: 92px 16px 24px 
+    padding: 92px 16px 24px;
   }
 
 }
