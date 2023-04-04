@@ -1,4 +1,39 @@
 .cover {
+  display: flex;
+  font-family: 'Inter', Arial, sans-serif;
+  background-image: url(../../img/cover-trains.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.cover::before {
+  content: "";
+  width: 0;
+  height: 0;
+  margin-left: -1px;
+  padding-top: calc(740/1184 * 100%); 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.cover {
   min-height: 62.50vw;
   display: flex;
   text-align: center;

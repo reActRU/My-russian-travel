@@ -2,13 +2,16 @@
   display: flex;
   flex-direction: column;
   margin: 0;
-  padding: 0 16px;
+  padding: 0 16px 50px;
   font-style: normal;
   font-weight: 400;
   font-size: 1rem;
   line-height: 163%;
   color: #FFFFFF;
-  gap: 25px;
+}
+
+.place__paragraph:last-child {
+
 }
 
 @media screen and (min-width: 769px) {

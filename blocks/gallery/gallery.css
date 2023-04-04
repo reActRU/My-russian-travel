@@ -1,8 +1,8 @@
 .gallery {
   padding: 0 16px 64px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 14px;
+  grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
+  gap: 12px;
 }
 
 @media screen and (min-width: 768px) {

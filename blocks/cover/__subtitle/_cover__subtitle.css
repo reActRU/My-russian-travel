@@ -5,26 +5,26 @@
   font-size: calc(0.7rem + 0.88vw);
   line-height: 114%;
   color: #FFFFFF;
-  padding: 0 5% 10%;
+  z-index: 1;
 }
 
 @media screen and (min-width: 768px) {
   .cover__subtitle {
     font-size: 1.13rem;
-    padding: 0 26.6% 15%;
+    /*padding: 0 26.6% 15%;*/
   }
 }
 
 @media screen and (min-width: 1024px) {
   .cover__subtitle {
     font-size: 1.13rem;
-    padding: 0 32.43%;
+    /*padding: 0 32.43%;*/
   }
 }
 
 @media screen and (min-width: 1280px) {
   .cover__subtitle {
     font-size: 1.13rem;
-    padding: 0 32.23%;
+    /*padding: 0 32.23%*/;
   }
 }

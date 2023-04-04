@@ -1,4 +1,3 @@
 .gallery__gallery-image {
-  box-sizing: border-box;
-  width: 100%;
+  max-width: 100%;
 }
