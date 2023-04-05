@@ -7,13 +7,14 @@
 
 @media screen and (min-width: 768px) {
 .gallery {
-  padding: 0 24px 64px;
+  padding: 0 24px 91px;
+  gap: 16px;
 }
 }
 
 @media screen and (min-width: 1024px) {
   .gallery {
-    padding: 0 48px 64px;
+    padding: 0 48px 84px;
   }
   }
   

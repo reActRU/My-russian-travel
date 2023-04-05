@@ -1,5 +1,5 @@
 .header__lang-link {
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   font-size: calc(1rem + 0.8vw);
   line-height: 111%;
   color: #FFFF;

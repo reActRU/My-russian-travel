@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   margin: 0;
-  padding: 0 16px 50px;
+  padding: 0 16px 3px;
   font-style: normal;
   font-weight: 400;
   font-size: 1rem;
@@ -10,18 +10,9 @@
   color: #FFFFFF;
 }
 
-.place__paragraph:last-child {
 
-}
-
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 768px) {
   .place__paragraph {
-    font-size: calc(1rem + 0.19531vw);
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  .place__paragraph {
-    font-size: 1.125rem;
+    padding: 11px 9px ;
   }
 }

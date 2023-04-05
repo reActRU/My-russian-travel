@@ -4,13 +4,13 @@
 }
 @media screen and (min-width: 768px) {
   .place {
-    padding: 0 3.126% 34px;
+    padding: 0 3.126%;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .place {
-    padding: 0 4.689% 34px;
+    padding: 0 4.689% 39px;
     max-width: 928px;
   }
 }

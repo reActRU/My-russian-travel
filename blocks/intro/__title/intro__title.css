@@ -1,6 +1,7 @@
 .intro__title {
   margin: 0;
   padding-bottom:  40px;
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: calc(1.3rem + 3.5vw);

@@ -1,5 +1,5 @@
 .intro__text {
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   margin: 0;
   padding-bottom:  34px;
   font-style: normal;
@@ -10,3 +10,13 @@
 }
 
   
+@media screen and (min-width: 768px) {
+  .intro__text {
+    padding-bottom:  30px;
+    
+  }
+}
+@media screen and (min-width: 1280px) {
+
+
+}
