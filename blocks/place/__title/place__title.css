@@ -5,7 +5,7 @@
   font-style: normal;
   font-weight: 900;
   font-size: calc(1.3rem + 3.5vw);
-  line-height: 109%;
+  line-height: 110%;
   color: #FFFFFF;
 }
 
@@ -13,12 +13,19 @@
   .place__title {
     padding: 0 0 32px;
     max-width: 320px;
-    font-size: calc(1.3rem + 2.77vw); 
+    font-size: calc(1.3rem + 2.77vw);
   }
 }
 
 @media screen and (min-width:1023px) {
   .place__title {
+    font-size: 4.5rem;
+  }
+}
+
+@media screen and (min-width:1280px) {
+  .place__title {
+    max-width: 460px;
     font-size: 4.5rem;
   }
 }

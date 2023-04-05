@@ -25,3 +25,11 @@
     padding-bottom: 22px;
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .lead__title {
+    max-width: 720px;
+    font-size: 6rem;
+    padding-bottom: 22px;
+  }
+}

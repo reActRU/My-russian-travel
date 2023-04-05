@@ -1,11 +1,11 @@
 .place__paragraph-span {
-    padding: 25px 0 74px;
+  padding: 25px 0 74px;
 }
 
 @media screen and (min-width: 768px) {
-    
-.place__paragraph-span {
+
+  .place__paragraph-span {
     padding: 25px 0 64px;
-}
+  }
 
 }

@@ -20,3 +20,13 @@
   }
 
 }
+
+@media screen and (min-width: 1280px) {
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    padding: 92px 47px 40px;
+  }
+
+}

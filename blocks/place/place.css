@@ -2,6 +2,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
 }
+
 @media screen and (min-width: 768px) {
   .place {
     padding: 0 3.126%;
@@ -10,13 +11,14 @@
 
 @media screen and (min-width: 1024px) {
   .place {
-    padding: 0 4.689% 39px;
+    padding: 0 4.689% 49px;
     max-width: 928px;
   }
 }
+
 @media screen and (min-width: 1280px) {
   .place {
-    padding: 0 11.57% 34px;
+    padding: 0 11.57% 50px;
     max-width: 984px;
   }
 }

@@ -1,6 +1,26 @@
 .place__image {
-  box-sizing: border-box;
-  width: 100%;
+  max-width: 100%;
   padding-bottom: 32px;
   grid-column: 1;
+}
+
+@media screen and (min-width: 768px) {
+  .place__image {
+    max-width: 340px;
+    padding-top: 13px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place__image {
+    max-width: 440px;
+    padding-top: 13px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .place__image {
+    max-width: 460px;
+    padding-top: 13px;
+  }
 }

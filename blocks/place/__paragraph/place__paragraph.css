@@ -13,6 +13,12 @@
 
 @media screen and (min-width: 768px) {
   .place__paragraph {
-    padding: 11px 9px ;
+    padding: 11px 9px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place__paragraph {
+    padding: 11px 9px;
   }
 }

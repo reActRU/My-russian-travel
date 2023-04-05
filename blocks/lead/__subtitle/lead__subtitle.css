@@ -16,3 +16,11 @@
     padding-bottom: 54px;
   }
 }
+
+@media screen and (min-width: 1280px) {
+  .lead__subtitle {
+    max-width: 640px;
+    font-size: 1.88rem;
+    padding-bottom: 60px;
+  }
+}

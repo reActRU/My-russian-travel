@@ -1,4 +1,3 @@
-
 .lead {
   display: flex;
   flex-direction: column;
@@ -8,17 +7,19 @@
 @media screen and (min-width: 768px) {
   .lead {
     padding: 0 0 88px;
+  }
 }
-}
+
 @media screen and (min-width: 1024px) {
   .lead {
     padding: 0 4.689% 92px;
     max-width: 928px;
+  }
 }
-}
+
 @media screen and (min-width: 1280px) {
   .lead {
-    padding: 0 11.57%;
-    max-width: 928px;
-}
+    padding: 0 11.57% 92px;
+    max-width: 984px;
+  }
 }
