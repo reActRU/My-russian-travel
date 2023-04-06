@@ -8,9 +8,11 @@
   background-size: cover;
   background-position: center;
   text-align: center;
+  background-color: #2A2C2F;
 }
 
 .cover::before {
+ 
   content: "";
   width: 0;
   height: 0;

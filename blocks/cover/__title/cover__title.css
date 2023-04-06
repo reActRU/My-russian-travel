@@ -10,21 +10,21 @@
   z-index: 1;
 }
 
+@media screen and (min-width: 321px) {
+  .cover__title {
+    max-width: 80%;
+  }
+}
+
+@media screen and (min-width: 489px) {
+  .cover__title {
+    max-width: 73%;
+  }
+}
+
 @media screen and (min-width: 768px) {
   .cover__title {
     max-width: 560px;
-    font-size: 4.5rem;
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  .cover__title {
-    font-size: 4.5rem;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .cover__title {
     font-size: 4.5rem;
   }
 }

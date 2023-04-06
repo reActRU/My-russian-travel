@@ -2,14 +2,14 @@
   display: flex;
   flex-direction: column;
   margin: 0;
-  padding: 0 16px 3px;
+  padding: 0 16px;
   font-style: normal;
   font-weight: 400;
   font-size: 1rem;
   line-height: 163%;
   color: #FFFFFF;
+  padding: 25px 16px 50px;
 }
-
 
 @media screen and (min-width: 768px) {
   .place__paragraph {

@@ -1,6 +1,17 @@
 .page {
   margin: 0 auto;
-  max-width: 1280px;
   background-color: #2A2C2F;
   font-family: 'Inter', Arial, sans-serif;
+}
+
+@media screen and (min-width: 1024px) {
+  .page {
+    max-width: 1024px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .page {
+    max-width: 1280px;
+}
 }
