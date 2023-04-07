@@ -1,7 +1,12 @@
 .header__list {
   margin: 0;
-  padding: 0;
   list-style-type: none;
   display: flex;
   gap: 18px;
+}
+
+@media screen and (min-width: 768px) {
+  .header__list {
+    padding-top: 10px;
+  }
 }

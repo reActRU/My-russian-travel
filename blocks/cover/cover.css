@@ -1,5 +1,6 @@
 .cover {
-  margin: 0 auto;
+  position: relative;
+  margin: 40px auto 0;
   max-width: 1184px;
   display: flex;
   font-family: 'Inter', Arial, sans-serif;
@@ -8,11 +9,10 @@
   background-size: cover;
   background-position: center;
   text-align: center;
-  background-color: #2A2C2F;
 }
 
-.cover::before {
- 
+
+.cover::after {
   content: "";
   width: 0;
   height: 0;

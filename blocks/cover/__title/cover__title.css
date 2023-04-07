@@ -8,6 +8,7 @@
   line-height: 110%;
   color: #FFFFFF;
   z-index: 1;
+  padding-bottom: 16px;
 }
 
 @media screen and (min-width: 321px) {

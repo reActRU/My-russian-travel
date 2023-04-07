@@ -4,19 +4,18 @@
   align-items: center;
   justify-content: center;
   width: 100%;
-  position: relative;
   text-decoration: none;
 }
 
-.cover__item:after {
+.cover__item::after {
   content: "";
   width: 100%;
   height: 100%;
   position: absolute;
+  background-color: #2A2C2F;
   opacity: 0.3;
 }
 
-.cover__item:hover {
- 
-  opacity: 0.8;
+.cover__item:hover:after {
+opacity: 0.8;
 }

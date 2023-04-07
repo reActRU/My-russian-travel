@@ -2,8 +2,9 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(303px, 1fr));
 }
- .place :last-child {
-  padding-bottom: 0;
+
+.plasdce :last-child {
+  padding-bottom: 40px;
 }
 
 @media screen and (min-width: 768px) {

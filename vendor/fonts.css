@@ -4,8 +4,8 @@
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/inter-v12-cyrillic_latin-regular.woff2') format('woff2'),
-    url('../fonts/inter-v12-cyrillic_latin-regular.woff') format('woff');
+  src: url('../vendor/inter-v12-cyrillic_latin-regular.woff2') format('woff2'),
+    url('../vendor/inter-v12-cyrillic_latin-regular.woff') format('woff');
 }
 
 /* inter-700 - cyrillic_latin */
@@ -14,8 +14,8 @@
   font-family: 'Inter';
   font-style: normal;
   font-weight: 700;
-  src: url('../fonts/inter-v12-cyrillic_latin-700.woff2') format('woff2'),
-    url('../fonts/inter-v12-cyrillic_latin-700.woff') format('woff');
+  src: url('../vendor/inter-v12-cyrillic_latin-700.woff2') format('woff2'),
+    url('../vendor/inter-v12-cyrillic_latin-700.woff') format('woff');
 }
 
 /* inter-900 - cyrillic_latin */
@@ -24,6 +24,6 @@
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  src: url('../fonts/inter-v12-cyrillic_latin-900.woff2') format('woff2'),
-    url('../fonts/inter-v12-cyrillic_latin-900.woff') format('woff');
+  src: url('../vendor/inter-v12-cyrillic_latin-900.woff2') format('woff2'),
+    url('../vendor/inter-v12-cyrillic_latin-900.woff') format('woff');
 }
