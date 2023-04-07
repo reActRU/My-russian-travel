@@ -14,13 +14,13 @@
 
 @media screen and (min-width: 1024px) {
   .gallery {
-    padding: 0 48px 84px;
+    padding: 0 47px 84px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .gallery {
-    padding: 0 48px 91px;
+    padding: 0 48px 89px;
     gap: 12px;
   }
 

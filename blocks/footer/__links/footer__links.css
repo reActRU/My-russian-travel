@@ -13,15 +13,10 @@
     flex-direction: row;
     flex-wrap: wrap;
   }
-
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 740px) {
   .footer__links {
-    padding: 0;
-    flex-direction: row;
     gap: 19px;
-    flex-wrap: wrap;
   }
-
 }

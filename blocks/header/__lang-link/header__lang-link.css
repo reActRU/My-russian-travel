@@ -6,7 +6,7 @@
   text-decoration: none;
 }
 
-.header__lang-link:visited {
+.header__lang-link:active {
   text-decoration: underline;
 }
 

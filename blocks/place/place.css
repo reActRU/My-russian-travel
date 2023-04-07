@@ -15,14 +15,14 @@
 
 @media screen and (min-width: 1024px) {
   .place {
-    padding: 0 4.689% 49px;
+    padding: 0 4.689% 48px;
     max-width: 928px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .place {
-    padding: 0 11.57% 50px;
+    padding: 0 11.57% 47px;
     max-width: 984px;
   }
 }

@@ -1,6 +1,4 @@
 .place__paragraph {
-  display: flex;
-  flex-direction: column;
   margin: 0;
   padding: 0 16px 25px;
   font-style: normal;
@@ -12,7 +10,23 @@
 
 @media screen and (min-width: 768px) {
   .place__paragraph {
+    width: 352px;
     padding: 11px 0px 17px 8px;
   }
 }
 
+@media screen and (min-width: 1024px) {
+  .place__paragraph {
+    font-size: 1.13rem;
+    width: 446px;
+    padding: 11px 0px 17px 8px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .place__paragraph {
+    font-size: 1.13rem;
+    width: 476px;
+    padding: 11px 0px 17px 8px;
+  }
+}

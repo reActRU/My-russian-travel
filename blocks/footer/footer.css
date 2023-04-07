@@ -11,22 +11,20 @@
   }
 }
 
+@media screen and (min-width: 768px) {
+  .footer {
+    padding: 87px 33px 33px 24px;
+  }
+}
+
 @media screen and (min-width: 1024px) {
   .footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: end;
-    padding: 92px 47px 24px;
+    padding: 91px 57px 33px 47px;
   }
-
 }
 
 @media screen and (min-width: 1280px) {
   .footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: end;
-    padding: 92px 47px 40px;
+    padding: 91px 57px 33px 47px;
   }
-
 }
