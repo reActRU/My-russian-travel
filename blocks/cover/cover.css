@@ -1,6 +1,6 @@
 .cover {
   position: relative;
-  margin: 40px auto 0;
+  margin: 66px auto 0;
   max-width: 1184px;
   display: flex;
   font-family: 'Inter', Arial, sans-serif;
@@ -22,7 +22,7 @@
 
 @media screen and (min-width: 768px) {
   .cover {
-    margin: 48px auto 0;
+    margin: 73px auto 0;
   }
 }
 

@@ -17,16 +17,12 @@
 
 @media screen and (min-width: 1024px) {
   .place__paragraph {
-    font-size: 1.13rem;
     width: 446px;
-    padding: 11px 0px 17px 8px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .place__paragraph {
-    font-size: 1.13rem;
     width: 476px;
-    padding: 11px 0px 17px 8px;
   }
 }

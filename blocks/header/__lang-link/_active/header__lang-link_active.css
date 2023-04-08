@@ -1,14 +1,14 @@
-.header__lang-link {
+.header__lang-link_active {
   font-family: 'Inter', Arial, sans-serif;
   font-size: calc(1rem + 0.8vw);
   line-height: 111%;
   color: #FFFF;
-  text-decoration: none;
+  text-decoration: underline;
   opacity: 0.8;
 }
 
 @media screen and (min-width: 768px) {
-  .header__lang-link {
+  .header__lang-link_active {
     font-size: 1.5rem;
     line-height: 117%;
   }
