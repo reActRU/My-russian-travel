@@ -10,19 +10,20 @@
 
 @media screen and (min-width: 768px) {
   .place__paragraph {
-    width: 352px;
+    max-width: 352px;
     padding: 11px 0px 17px 8px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .place__paragraph {
-    width: 446px;
+    max-width: 446px;
+    font-size: 1.13rem;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .place__paragraph {
-    width: 476px;
+    max-width: 476px;
   }
 }

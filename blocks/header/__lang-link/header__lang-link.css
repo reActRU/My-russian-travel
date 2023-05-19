@@ -4,7 +4,11 @@
   line-height: 111%;
   color: #FFFF;
   text-decoration: none;
+}
+
+.header__lang-link:hover {
   opacity: 0.8;
+  cursor: pointer;
 }
 
 @media screen and (min-width: 768px) {
