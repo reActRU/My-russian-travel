@@ -1,21 +1,3 @@
 .header__lang-link_active {
-  font-family: 'Inter', Arial, sans-serif;
-  font-size: calc(1rem + 0.8vw);
-  line-height: 111%;
-  color: #FFFF;
-}
-
-.header__lang-link_active:hover,
-.header__lang-link_active:visited,
-.header__lang-link_active:active {
-  opacity: 0.8;
-  cursor: pointer;
   text-decoration: underline;
-}
-
-@media screen and (min-width: 768px) {
-  .header__lang-link_active {
-    font-size: 1.5rem;
-    line-height: 117%;
-  }
 }
